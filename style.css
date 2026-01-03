@@ -109,6 +109,7 @@ header {
   position: relative;
 }
 
+/*modal title  */
 .modal-title {
   width: calc(100% - 10px);
   min-height: 43px;
